@@ -555,7 +555,8 @@
 		align-self: flex-end;
 		width: 100%;
 		padding: 1.5em 0 0 0;
-		color: rgba(255, 255, 255, 0.75);
+      color: rgba(50, 50, 50, 0.75);
+		/*color: rgba(255, 255, 255, 0.75);*/
 		cursor: default;
 		text-align: center;
 	}
@@ -571,7 +572,8 @@
 				display: inline-block;
 				margin: 0 0 0 0.45em;
 				padding: 0 0 0 0.85em;
-				border-left: solid 1px rgba(255, 255, 255, 0.5);
+            border-left: solid 1px rgba(50, 50, 50, 0.5);
+				/*border-left: solid 1px rgba(255, 255, 255, 0.5);*/
 				line-height: 1;
 			}
 

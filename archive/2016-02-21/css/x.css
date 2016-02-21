@@ -1,0 +1,62 @@
+html, body {height: 90%;} 
+div.page { min-height: 100%; height: auto !important; height: 100%;}
+
+body {min-width:750px; font-family: arial, verdana; font-size: 10px; color: white;}
+
+div.wrap {margin: 0 auto; width:735px;}
+
+div.title-column1 {float:left; width:350px;}
+div.title-column2 {float:right; width:350px; font-family: courier new; font-size: 11px; padding-top: 15px; text-align: right;}
+
+div.column1 {float:left; width:350px;}
+div.column2 {float:right; width:350px;}
+
+div.top-menu {margin: 0 auto; width:735px;}
+ul.menu {float: left; width: 735px; margin-left:0px; padding: 0;}
+li.menu {display: inline;} 
+
+ul.colors {float: left; width: 230px; margin-left:0px; padding: 0;}
+
+a.a1 {color: white; text-decoration: none;}
+a.a1:hover {color: white; background-color: black; text-decoration: none;} 
+
+div.main-body {margin: 0 auto; width:735px;}
+a.a2 {color: black; text-decoration: none;}
+a.a2:hover {color: white; background-color: black; text-decoration: none;} 
+
+a.a3 {color: black; background-color: black; text-decoration: none;}
+a.a3:hover {color: white; background-color: black; text-decoration: none;} 
+
+img.psc { border-style: none none none none; }
+a.portfolio-a2 {color: white; text-decoration: none;}
+a.portfolio-a2:hover {color: white; background-color: black; text-decoration: none;} 
+
+a.rss {color: orange; text-decoration: none;}
+a.rss:hover {color: white; text-decoration: none;}
+
+div.interests-column1 {float:left; width:450px;}
+
+img.gal {width: 60px; height: 60px; border-style: none none none none; border-width: 1px; border-color: #8990A9}
+
+div.links-column1 {float:left; width:550px;}
+
+a.playlist1 {color: white; background-color: black; text-decoration: none;}
+a.playlist1:hover {color: white; background-color: transparent; text-decoration: none;}
+a.playlist2 {color: white; background-color: transparent; text-decoration: none;}
+a.playlist2:hover {color: white; background-color: black; text-decoration: none;}
+
+div.copyright-wrapper {margin: 0 auto; width:715px; text-align: center;}
+div.copyright {width: 230px; text-align: center; color: darkgray;}
+a.copy {color: darkgray; text-decoration: none;}
+a.copy:hover {color: white; text-decoration: none;}
+
+a.gal {text-decoration: none;}
+a.gal:hover {text-decoration: none;}
+div.gallerycolumn1 {float:left; width:315px;}
+div.gallerycolumn2 {float:right; width:390px;}
+img.preview {max-width: 500px; max-height: 600px;}
+
+
+a.gal2 {text-decoration: none;}
+a.gal2:hover {text-decoration: none;}
+img.gal2 {width: 5px; height: 5px; border-style: none none none none; border-width: 1px; border-color: #8990A9; background-color: lime;}

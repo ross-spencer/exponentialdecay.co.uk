@@ -1,0 +1,73 @@
+body.overall {position: relative; margin-top: 10px; margin-right: 0px; padding: 0px; background-color: #827062} 
+
+div.content {width: 715px; margin-left: 220px; margin-right: 250px; text-align: justify; padding: 15px; background-color: #827062}
+
+h2.subtitles { text-align: justify; color: #FFFFFF; font-family: arial, verdana; font-size: 10px; font-weight: normal }
+
+div.d1 {float: left; width: 700px; text-align: justify; color: #FFFFFF; font-family: arial, verdana; font-size: 10px; padding-top: 0px; height: 160px}
+img.center {width: 255px; height: 84px; border-style: none none none none; border-width: 1px; border-color: #8990A9; padding: 0px}
+
+ul.d1 {float: left; width: 700px; margin-left:0px; padding: 0;}
+li.d1 {display: inline;} 
+
+p.menupadding {height: 15px; padding: 0px}
+
+div.d2 {float: right; width: 300px; height: 80px; padding-top: 2px; text-align: right; color: #FFFFFF; font-family: arial, verdana; font-size: 10px}
+
+a.a1 {color: #827062; background-color: white; text-decoration: none}
+a.a1:hover {color: white; background-color: #827062; text-decoration: none} 
+
+img.rss {border: none}
+
+div.d3 {margin-top: 38px; clear: left; width: 700px; text-align: justify; color: #FFFFFF; font-family: arial, verdana; font-size: 10px; padding-top: 0px}
+
+div.d4 {float: left; width: 400px; text-align: justify; color: #FFFFFF; font-family: arial, verdana; font-size: 10px}
+
+table.port-table { border-collapse: collapse; empty-cells: show; text-align: justify; }
+td.general { padding-top: 15px; } 
+td.psc { text-align: right; padding-top: 20px; }
+img.psc { border-style: none none none none; }
+
+a.a2:link {color: white; background-color: #827062; text-decoration: none}
+a.a2:visited {color: #201B18; background-color: #827062; text-decoration: none}
+a.a2:hover {color: #00ff00; background-color: #827062; text-decoration: none} 
+
+div.d5 {margin-top: -1510px; float: right; width: 200px; height: 40px; text-align: right; color: #FFFFFF; font-family: arial, verdana; font-size: 10px}
+
+div.d6 {margin-top: -1370px; float: right; width: 200px; height: 40px; text-align: right; color: #FFFFFF; font-family: arial, verdana; font-size: 10px}
+
+div.d7 {margin-top: -1195px; float: right; width: 305px; height: 40px; text-align: right; color: #FFFFFF; font-family: arial, verdana; font-size: 10px}
+
+a.a3 {color: white; background-color: #827062; text-decoration: none}
+a.a3:hover {color: #827062; background-color: white; text-decoration: none} 
+
+
+img.gal {width: 60px; height: 60px; border-style: none none none none; border-width: 1px; border-color: #8990A9}
+
+
+div.d8 {margin-top: -1205px; float: right; width: 350px; height: 40px; text-align: right; color: #FFFFFF; font-family: arial, verdana; font-size: 10px}
+a.a5 {color: white; background-color: #827062; text-decoration: none}
+a.a5:hover {color: #FF0000; background-color: #827062; text-decoration: none} 
+
+div.techno {margin-top: -1075px; margin-left: 250px; float: right; width: 200px; height: 40px; text-align: right; color: #FFFFFF; font-family: arial, verdana; font-size: 10px}
+
+div.d4links { float: left; width: 550px; text-align: justify; color: #FFFFFF; font-family: arial, verdana; font-size: 10px}
+a.a4:link {color: #201B18; background-color: #827062; text-decoration: none}
+a.a4:visited {color: white; background-color: #827062; text-decoration: none}
+a.a4:hover {color: #00ff00; background-color: #827062; text-decoration: none} 
+
+div.1d4copy {margin-left: 220px; width: 43%; text-align: center; color: #FFFFFF; font-family: arial, verdana; font-size: 10px}
+
+div.d4copy {clear: both; width: 70%; text-align: center; color: #FFFFFF; font-family: arial, verdana; font-size: 10px; margin-left: 220px
+}
+
+div.validator { float: right; margin-right: -80px }
+img.validator { border-style: none none none none; }
+a.validator { text-decoration: none; }
+
+
+div.contentsright {float: left}
+
+div.contentsleft {position:absolute; top: 30px; left: 700px; margin-top: -1px; width: 300px; float: right; text-align: right; color: #FFFFFF; font-family: arial, verdana; font-size: 10px}
+
+div.superfluouspadding {height: 100px; width: 300px;}

@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="index.xsl"?>
+
+<page>
+
+	<section>
+		<title>
+			intro
+		</title>
+		<intro>
+			welcome to exponentialdecay.co.uk a personal and professional website exhibiting my interests
+			and work as a student, in web design and as a computer programmer.--rs--
+		</intro>
+	</section>
+
+	<section>
+		<title>
+			news
+		</title>
+		<news>
+		
+			<item>
+				<date>
+					Sun, 19 Oct 2008 21:21:00 +0000
+				</date>
+				<timestamp>
+					20081019212100
+				</timestamp>
+				<content>
+					BETA: *Archived* This page is no longer updated as part of being a beta page
+					exhibiting XML and XSLT technologies.
+				</content>
+				<sig>
+					--rs--
+				</sig>
+			</item>
+		
+			<item>
+				<date>
+					Sun, 16 Sep 2007 03:16:00 +0000
+				</date>
+				<timestamp>
+					20070916031600
+				</timestamp>
+				<content>
+					Beavis can you spare a dime? Currently the news is I am looking for a job as a grad C++
+					developer. In the meantime there has been ample opportunity to bone up my C++ and other 
+					language skills, hence the construction of this website, I've actually had time to do it!
+					This I guess is the first news post of the new site! enjoy. 
+				</content>
+				<sig>
+					--rs--
+				</sig>
+			</item>
+		
+			<item>
+				<date>
+					Mon, 08 Sep 2008 00:55:00 +0000
+				</date>
+				<timestamp>
+					20080908005500
+				</timestamp>
+				<content>
+					RSS. It has only taken a 12 Months. Still check out the new RSS feed
+					for exponentialdecay.co.uk. Nice to have one finally, now to find something to put there. 
+				</content>
+				<sig>
+					--rs--
+				</sig>
+			</item>
+			
+		</news>
+	</section>
+	
+	
+	<section>
+		<title>
+			portfolio
+		</title>
+		<portfolio>
+			<project>
+				<project_title>
+					Allegro Palette Viewer
+				</project_title>
+				<description>
+					Application to view and switch between the two available Allegro Color Palettes, created using the Allego GUI subsystem.
+				</description>
+				<location>
+					http://www.exponentialdecay.co.uk/allegro
+				</location>
+				<language>
+					C++
+				</language>
+			</project>
+			
+			<project>
+				<project_title>
+					Library for drawing regular polygons
+				</project_title>
+				<description>
+					C++, library to draw regular polygons up to 45 sides with straight line primitives.
+				</description>
+				<location>
+					http://www.planet-source-code.com/vb/scripts/ShowCode.asp?lngWId=3&amp;txtCodeId=11728
+				</location>
+				<language>
+					C++
+				</language>
+			</project>
+			
+			<project>
+				<project_title>
+					Racing Name Generator
+				</project_title>
+				<description>
+					C++, generate names for horses, pigeons, greyhounds, bands.
+				</description>
+				<location>
+					http://www.planetsourcecode.com/vb/scripts/ShowCode.asp?txtCodeId=11599&amp;lngWId=3
+				</location>
+				<language>
+					C++
+				</language>
+			</project>
+			
+			<project>
+				<project_title>
+					Prime and Happy Number Checker
+				</project_title>
+				<description>
+					C++, find out if your integers are happy and prime.
+				</description>
+				<location>
+					http://www.planetsourcecode.com/vb/scripts/ShowCode.asp?txtCodeId=11518&amp;lngWId=3
+				</location>
+				<language>
+					C++
+				</language>
+			</project>
+			
+			<project>
+				<project_title>
+					Pidgeracer MKII
+				</project_title>
+				<description>
+					VB 5.0, the first of the Pidgeracer series. 
+				</description>
+				<location>
+					http://www.planetsourcecode.com/vb/scripts/ShowCode.asp?txtCodeId=24452&amp;lngWId=1
+				</location>
+				<language>
+					Visual Basic 5.0
+				</language>
+			</project>
+			
+			<project>
+				<project_title>
+					Fatboy Number Converter MKII
+				</project_title>
+				<description>
+					VB 5.0, convert integers to Roman numerals, Spanish or Japanese.
+				</description>
+				<location>
+					http://www.planetsourcecode.com/vb/scripts/ShowCode.asp?txtCodeId=24624&amp;lngWId=1
+				</location>
+				<language>
+					Visual Basic 5.0
+				</language>
+			</project>
+			
+			<external_links>
+				<link>
+					http://www.planetsourcecode.com
+				</link>
+				<page_title>
+					Planet Source Code
+				</page_title>
+				<image>
+					images/psc.jpg
+				</image>
+			</external_links>	
+			
+			<external_links>
+				<link>
+					http://www.talula.demon.co.uk/allegro/
+				</link>
+				<page_title>
+					Allegro Game Programming Library
+				</page_title>
+				<image>
+					images/allegro-logo.png
+				</image>
+			</external_links>
+		</portfolio>
+	</section>
+
+	<section>
+		<title>
+			skill
+		</title>
+		<skills>
+			<category>
+				<skill>
+					Operating Systems
+				</skill>
+				<description>
+					Windows, Solaris, Linux, DOS, Mac OS 7, Windows Server 2003
+				</description>
+			</category>
+			<category>
+				<skill>
+					Programming Languages
+				</skill>
+				<description>
+					C++ (Allegro, STL, Win32), Java (J2SE, Applets), Visual Basic, PHP, Gameboy Development Kit
+				</description>
+			</category>
+			<category>
+				<skill>
+					Web Based Languages
+				</skill>
+				<description>
+					XML, XSLT, HTML/XHTML, CSS, JavaScript
+				</description>
+			</category>
+			<category>
+				<skill>
+					IDE's
+				</skill>
+				<description>
+					Visual Studio, Dev-C++
+				</description>
+			</category>
+			<category>
+				<skill>
+					Databases
+				</skill>
+				<description>
+					Oracle (8, 9, 10, XE), Sybase (5.0, 8.0), MySQL
+				</description>
+			</category>
+			<category>
+				<skill>
+					Other
+				</skill>
+				<description>
+					Tortoise CVS, Apache, Apache Fop, Apache Tomcat, Sybase EAServer, Bugzilla
+				</description>
+			</category>
+		</skills>
+	</section>
+	
+	<section>
+		<title>
+			education
+		</title>
+		<education>
+			<school>
+				<name>
+					Kings College London
+				</name>
+				<dates>
+					2004 - 2006
+				</dates>
+				<course>
+					<title>
+						MA Digital Culture and Technology
+					</title>
+					<grade>
+						Merit
+					</grade>
+				</course>
+			</school>
+			<school>
+				<name>
+					Keele University
+				</name>
+				<dates>
+					2001 - 2004
+				</dates>
+				<course>
+					<title>
+						BSc (Hons) Software Engineering
+					</title>
+					<grade>
+						2:2
+					</grade>
+				</course>
+			</school>
+			<school>
+				<name>
+					Stafford College
+				</name>
+				<dates>
+					1998 - 2001
+				</dates>
+				<course>
+					<title>
+						GNVQ Advanced Information Technology
+					</title>
+					<grade>
+						Distinction
+					</grade>
+				</course>
+				<course>
+					<title>
+						A-Level Psychology
+					</title>
+					<grade>
+						D
+					</grade>
+				</course>
+			</school>
+			<school>
+				<name>
+					Walton High School
+				</name>
+				<dates>
+					1992 - 1998
+				</dates>
+				<course>
+					<title>
+						GNVQ: Intermediate Information Technology
+					</title>
+					<grade>
+						Distinction
+					</grade>
+				</course>
+				<course>
+					<title>
+						6 GCSE's including Maths, English, Science, Geography
+					</title>
+					<grade>
+						B
+					</grade>
+				</course>
+			</school>
+		</education>
+	</section>
+	
+ 	<section>
+		<title>
+			interests
+		</title>
+		<interests>
+			japanese, singaporean, and chinese cinema;
+         comics and pulp fiction; design; programming; gaming; tetris; anime; building computers;
+         technology; material culture and the continuation of the material form using digital methods; 
+		</interests>
+	</section>
+
+	<section>
+		<title>
+			gallery
+		</title>
+		<gallery>
+			<thumb>
+				gallery/thumbs/pidgeracer-tn.jpg
+			</thumb>
+			<location>
+				gallery/pidgeracer.jpg
+			</location>
+			<alt>
+				Pidge Racer Revolution
+			</alt>
+		</gallery>
+		<gallery>
+			<thumb>
+				gallery/thumbs/slayer-tn.jpg
+			</thumb>
+			<location>
+				gallery/slayer.jpg
+			</location>
+			<alt>
+				goatslayer
+			</alt>
+		</gallery>
+		<gallery>
+			<thumb>
+				gallery/thumbs/stafford-tn.jpg
+			</thumb>
+			<location>
+				gallery/stafford.jpg
+			</location>
+			<alt>
+				Stafford Trainspotter Spotting
+			</alt>
+		</gallery>
+		<gallery>
+			<thumb>
+				gallery/thumbs/fenceclimb-tn.jpg
+			</thumb>
+			<location>
+				gallery/fenceclimb.jpg
+			</location>
+			<alt>
+				Street Art Climber
+			</alt>
+		</gallery>
+		<gallery>
+			<thumb>
+				gallery/thumbs/mojojojo-tn.jpg
+			</thumb>
+			<location>
+				gallery/mojojojo.jpg
+			</location>
+			<alt>
+				Mojo Jojo
+			</alt>
+		</gallery>
+	</section>
+
+	<section>
+		<title>
+			books
+		</title>
+		<book>
+			<title>
+				Hackers
+			</title>
+			<link>
+				http://www.stevenlevy.com/index.php/other-books/hackers
+			</link>
+		</book>
+		<book>
+			<title>
+				HST
+			</title>
+			<link>
+				http://www.gonzo.org/
+			</link>
+		</book>
+		<book>
+			<title>
+				Roald Dahl
+			</title>
+			<link>
+				http://www.roalddahl.com/
+			</link>
+		</book>
+		<book>
+			<title>
+				James Gleick
+			</title>
+			<link>
+				http://www.around.com/
+			</link>
+		</book>
+		<book>
+			<title>
+				Kerouac
+			</title>
+			<link>
+				http://us.penguingroup.com/nf/Book/BookDisplay/0,,0_9780142437254,00.html
+			</link>
+		</book>
+		<book>
+			<title>
+				Arthur C. Clarke
+			</title>
+			<link>
+				http://www.exponentialdecay.co.uk/texts/9billion.html
+			</link>
+		</book>
+		<book>
+			<title>
+				Miguel Pinero
+			</title>
+			<link>
+				http://oldpoetry.com/oauthor/show/Miguel_Pinero
+			</link>
+		</book>
+		<book>
+			<title>
+				Thomas Sowell
+			</title>
+			<link>
+				http://www.tsowell.com/
+			</link>
+		</book>
+	</section>
+
+	<section>
+		<title>
+			links
+		</title>
+		<links>
+			<link>http://www.zardozbooks.co.uk/zardoz/default_ms.asp</link>
+			<title>Pulp Fiction Novels</title>      
+		</links>
+		<links>
+			<link>http://www.gamesradar.com/gb/index.jsp</link>
+			<title>Games Radar</title>      
+		</links>
+		<links>
+			<link>http://www.cppgameprogramming.com/cgi/nav.cgi?page=index</link>
+			<title>CPP Game Programming</title>      
+		</links>
+		<links>
+			<link>http://www.cplusplus.com/</link>
+			<title>cplusplus Reference</title>      
+		</links>
+		<links>
+			<link>http://cboard.cprogramming.com/index.php</link>
+			<title>Cprogramming.com Forums</title>      
+		</links>
+		<links>
+			<link>http://www.codeguru.com/forum/</link>
+			<title>CodeGuru Forums</title>      
+		</links>
+		<links>
+			<link>http://forums.winamp.com/</link>
+			<title>Winamp Forums</title>      
+		</links>
+		<links>
+			<link>http://www.nullsoft.com/</link>
+			<title>nullsoft</title>      
+		</links>
+		<links>
+			<link>http://www.talula.demon.co.uk/allegro/</link>
+			<title>Allegro Game Programming Library</title>      
+		</links>
+		<links>
+			<link>http://www.allegro.cc/</link>
+			<title>Allegro Development Network</title>      
+		</links>
+		<links>
+			<link>http://www.libsdl.org/</link>
+			<title>simple direct media layer lib</title>      
+		</links>
+		<links>
+			<link>http://www.rentacoder.com/RentACoder/default.asp</link>
+			<title>rentacoder.com</title>      
+		</links>
+		<links>
+			<link>http://www.bloodshed.net/</link>
+			<title>dev-c++</title>     
+		</links>
+		<links>
+			<link>http://www.mathopenref.com/</link>
+			<title>maths open reference</title>      
+		</links>
+		<links>
+			<link>http://www.inform-fiction.org/I7/Welcome.html</link>
+			<title>Interactive Fiction Development Platform</title>      
+		</links>
+		<links>
+			<link>http://en.wikipedia.org/wiki/XYZZY_Awards</link> 
+			<title>XYZZY_Awards</title>      
+		</links>
+		<links>
+			<link>http://www.ninjaturtles.com/html/comic.htm</link>
+			<title>TMNT</title>      
+		</links>
+		<links>
+			<link>http://www.stevenlevy.com</link>
+			<title>Steven Levy</title>      
+		</links>
+		<links>
+			<link>http://www.arxiv.org/</link>  
+			<title>arxiv pre-print journals</title>      
+		</links>
+		<links>
+			<link>http://www.youtube.com/results?search_query=miguel+pinero</link>   
+			<title>Pinero</title>      
+		</links>		
+	</section>
+
+	<section>
+		<title>
+			contact
+		</title>
+		<contact>
+			<text>
+				kontakt [-at-] exponentialdecay [-dot-] co [-dot-] uk
+			</text>
+		</contact>
+	</section>
+
+	<section>
+		<title>
+			playlist
+		</title>
+	</section>
+
+	<section>
+		<miscellany>
+			<location>
+				work/dc_portfolio.pdf
+			</location>
+			<title>
+				Digital Culture Portfolio [PDF][437kb]
+			</title>
+		</miscellany>
+		<miscellany>
+			<location>
+				work/propositional_logic.pdf</location>
+			<title>
+				Propositional Logic Essay [PDF][77kb]
+			</title>
+		</miscellany>
+		<miscellany>
+			<location>
+				work/critical_assessment.pdf</location>
+			<title>
+				Digitisation Critical Assessment [PDF][181kb]
+			</title>
+		</miscellany>
+		<miscellany>
+			<location>
+				work/proposal_mkii.pdf</location>
+			<title>
+				MA Dissertation Proposal [PDF][29kb]
+			</title>
+		</miscellany>
+		<miscellany>
+			<location>
+				work/comic_book_digitisation.pdf</location>
+			<title>
+				MA Dissertation, Digitisation of the Comic Book [PDF][365kb]
+			</title>
+		</miscellany>
+		<miscellany>
+			<location>
+				exes/comics.exe</location>
+			<title>
+				Digitisation of the Comic Book [EXE][1281kb]
+			</title>
+		</miscellany>
+		<miscellany>
+			<location>
+				exes/Comic-Book.exe</location>
+			<title>
+				MA Research, Proof of Concept - Batman[EXE][7630kb]
+			</title>
+		</miscellany>
+		<miscellany>
+			<location>
+				exes/PidgeRacer_MKII.2.6.9.exe
+			</location>
+			<title>
+				Pidgeracer MKII [EXE][176kb]
+			</title>
+		</miscellany>
+	</section>
+
+	<section>
+		high scores
+	</section>
+
+</page>
